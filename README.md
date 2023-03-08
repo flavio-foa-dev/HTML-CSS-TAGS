@@ -1,1 +1,37 @@
 # HTML-CSS-TAGS
+
+- HTML;
+- Fazer download e instalar o Visual Studio Code;
+- Criar pasta e abrir no editor de código.
+- A importância da documentação W3S;
+- O que é HTML e porque é considerada uma linguagem de marcação;
+- Estruturar um documento HTML com tags e elementos;
+- A utilidade da introdução <!DOCTYPE html>;
+- Diferença entre a metainformação presente no <head> e o conteúdo presente no <body> de uma página HTML;
+- A importancia de criar (alt="logo") para uma imagem;
+- Acessar a Developer Tools (Ferramentas para Desenvolvedores) de um navegador;
+- Quirks mode (modo peculiaridade);
+- Live Server
+- Como consultar o layout do projeto no Figma;
+- Escrever o código base do arquivo HTML, usando as tags semânticas que fazem parte da estrutura básica do arquivo;
+- A função de cada tag meta.
+- O que é CSS (Cascading Style Sheets);
+- Estilização na prática;
+- Propriedades CSS;
+- Criar um arquivo externo para estilizar a página;
+- Integrar o arquivo CSS ao arquivo HTML.
+- Utilizar as cores no CSS;
+- Utilizar as cores hexadecimais no CSS;
+- Utilizar paleta de cores de terceiros;
+- Alterar as cores de fundo e dos textos;
+- Extrair a cor do Figma para utilizar no CSS;
+- Destacar o texto e alterar a cor do texto em destaque.
+- Reset css
+- box model
+- Utilizar classes no HTML e CSS;
+- Boas práticas na criação das classes;
+- Posicionamento de elementos com CSS;
+- Importância de resetar o padrão do CSS;
+- Testar os elementos da página inspecionando via ferramenta de desenvolvimento;
+- Box model (margin, border e padding);
+- Diferentes seletores CSS.
