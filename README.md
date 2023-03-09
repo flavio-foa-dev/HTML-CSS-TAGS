@@ -35,3 +35,29 @@
 - Testar os elementos da página inspecionando via ferramenta de desenvolvimento;
 - Box model (margin, border e padding);
 - Diferentes seletores CSS.
+- Padrões de projetos CSS com height e box-sizing;
+- Unidade Viewport;
+- Hierarquia entre elementos pai e filho;
+- Formas e parâmetros de posicionamento;
+- Flexbox.
+- section no HTML;
+- Posicionar elementos com Flexbox utilizando o justify-content;
+- Indentar o código;
+- Boas práticas para nomear sections;
+- Utilizar o Figma para consultar medidas de elementos;
+- Alterar o tamanho, tipo e peso da fonte com font-size, font-family e font-weight;
+- Importar fontes com Google Fonts.
+- Posicionar e estilizar botões;
+- Criar e utilizar divisões (divs) no projeto;
+- Identificar o espaçamento no Figma;
+- Retirar o sublinhado com o text-decoration;
+- Arredondar bordas com border-radius.
+- Definir espaçamento vertical e horizontal;
+- Posicionar os elementos em coluna com Flexbox;
+- Utilizar o recurso Gap para espaçar cada elemento filho.
+- Adicionar ícones aos links clicáveis;
+- Alinhar elementos com justify-content;
+- Estilizar elementos ao passar o mouse sobre eles com o seletor hover.
+- footer da página;
+- o header da página;
+- links de navegação através da tag <nav>
