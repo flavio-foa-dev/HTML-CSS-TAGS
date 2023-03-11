@@ -61,3 +61,9 @@
 - footer da página;
 - o header da página;
 - links de navegação através da tag <nav>
+- estilização do header do portfólio;
+- nova página HTML “Sobre mim”;
+- Desenvolver a navegação entre as páginas “Home” e “Sobre mim”.
+- Adicionar conteúdo a uma nova página;
+- O que são variáveis CSS;
+- Como customizar o projeto aplicando variáveis CSS.
