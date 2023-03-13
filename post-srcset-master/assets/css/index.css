@@ -1,0 +1,63 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+img {
+    width: 100%;
+}
+
+body {
+    font-family: "Roboto", sans-serif;
+    background-color: #e6e6e6;
+}
+
+.cabecalho {
+    background-color: #ffffff;
+    padding: 8px 0;
+    border-bottom: 1px solid #d1d1d1;
+}
+
+.cabecalho__titulo {
+    color: #131313;
+    font-family: "Ephesis", cursive;
+    font-weight: 400;
+    margin: 0 8px 8px 8px;
+}
+
+.cabecalho__banner {
+    display: block;
+    overflow: hidden;
+    height: 200px;
+}
+
+.cabecalho__banner img, .cabecalho__banner source {
+    height: 100%;
+    object-fit: cover;
+}
+
+@media screen and (min-width: 1024px) {
+    .cabecalho__banner {
+        height: 300px;
+    }
+}
+
+.posts {
+    padding: 16px;
+    display: grid;
+    justify-items: center;
+    row-gap: 16px;
+}
+
+.post {
+    padding: 8px 0;
+    border-radius: 3px;
+    background-color: #ffffff;
+    box-shadow: 0 3px 5px 3px rgba(0, 0, 0, 0.09);
+    max-width: 320px;
+}
+
+.perfil {
+    margin: 0 8px 8px 8px;
+}
