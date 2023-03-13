@@ -18,7 +18,7 @@
 
 body {
   box-sizing: border-box;
-  background-color: black;
+  background-color: var(--cor-primaria);
   box-sizing: border-box;
   color: #f6f6f6;
   /* height: 100vh; */
